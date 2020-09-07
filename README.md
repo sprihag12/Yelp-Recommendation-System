@@ -11,4 +11,4 @@ https://www.yelp.com/dataset. The project covered the followng:
 5.Word2Vec for text reviews
 6.Frequent pattern mining using FP-Growth algorithm 
 
-Disclaimer - We worked on a subset of the Yelp academic dataset because of techincal challenges.
+Disclaimer - We worked on a subset of the dataset because of techincal challenges.
